@@ -1,4 +1,5 @@
 site_name: Technical Writing Recipe Book
+site_url: https://jose-sayago.github.io/tw-recipe-book/
 nav: 
   - Home: index.md
   - About: about.md
