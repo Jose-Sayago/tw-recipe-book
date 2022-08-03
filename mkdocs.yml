@@ -1,0 +1,30 @@
+site_name: Technical Writing Recipe Book
+nav: 
+  - Home: index.md
+  - About: about.md
+  - Recipes: 
+    - Breakfast:
+      - breakfastSmoothie.md
+    - Meals:
+      - bonelessChillyChicken.md
+theme:
+  name: material
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+
+
